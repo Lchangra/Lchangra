@@ -1,16 +1,13 @@
-## Hi there 👋
+# Lchangra - Random Video Chat
 
-<!--
-**Lchangra/Lchangra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A modern Omegle-like platform for random video chatting.
 
-Here are some ideas to get you started:
+## Features
+- Random 1-on-1 video calls
+- Real-time text chat
+- Next button to skip users
+- Modern UI
+- Mobile responsive
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Deployment
+Deployed on Render.com
